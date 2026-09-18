@@ -1,0 +1,19 @@
+﻿======================================================================
+DOWNLOAD EXECUTION LOG
+======================================================================
+Timestamp: 2026-09-18 20:35:00 IST
+Dataset: ds003745 (Social Decision-Making in Younger and Older Adults)
+Selected Snapshot: 2.1.1
+Method: DataLad clone (Git-tracked metadata & behavioral event tables)
+Local Directory: downloads/ds003745/2.1.1
+
+Scope Completed:
+- Root metadata: README, dataset_description.json, participants.tsv, participants.json
+- Task JSON dictionaries: task-sharedreward_bold.json, task-trust_bold.json, task-ultimatum_bold.json
+- Participant event tables: sub-*/func/*_events.tsv across all scanner subjects (sub-1xx)
+
+Exceptions & Completion Verification:
+- sub-2xx participants represent external behavioral friends outside the scanner; absence of imaging/functional runs is expected by study design.
+- Heavy raw fMRI BOLD NIfTI volumes (*_bold.nii.gz) and preprocessed derivatives omitted per selective retrieval guidelines.
+- Repository pinned to Git snapshot tag 2.1.1.
+======================================================================
