@@ -1,3 +1,12 @@
-# Index
+# Neuroeconomics Task
 
-Dataset URL: [https://humanconnectome.org/study/hcp-young-adult/data-release/1200-subjects-data-release]
+## Important Details:
+
+* **Dataset Name:** `An fMRI Dataset on Social Reward Processing and Decision Making in Younger and Older Adults`
+* **Accession ID:** `ds003745`
+* **Selected Snapshot:** `2.1.1`
+* **DOI:** `doi:10.18112/openneuro.ds003745.v2.1.1`
+* **Dataset URL:** `https://openneuro.org/datasets/ds003745/versions/2.1.1`
+* **License / Terms:** `CC0`
+* **Study Repository:** `https://github.com/DVS-Lab/srndna-datapaper`
+
